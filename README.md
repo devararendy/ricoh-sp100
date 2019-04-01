@@ -1,4 +1,5 @@
-Driver and CUPS filter for Ricoh Aficio SP-100 and SP-200 family laser printers
 
-Current restrictions:
- - Does not count dots -- 1132782 per page hardcoded
+
+Sorry, this repository is not maintained anymore.
+
+See https://github.com/madlynx/ricoh-sp100/network and https://github.com/madlynx/ricoh-sp100/pulls for more info
